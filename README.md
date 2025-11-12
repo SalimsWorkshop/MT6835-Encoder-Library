@@ -70,6 +70,8 @@ If you found my code helpful, I’d really appreciate it if you subscribed to my
 Suggestions and improvements are always welcome!  
 Feel free to open an issue or submit a pull request if you have ideas for making this library better.
 
+---
+
 ### 📡 Author
 
 **Salim’s Workshop**  
